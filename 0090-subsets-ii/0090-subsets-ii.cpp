@@ -23,7 +23,7 @@ public:
     void uniqueSubsets2(int ind,vector<int>&nums,set<vector<int>>&ans,vector<int>&ds){
         int n =nums.size();
         if(ind==n){
-            
+            sort(ds.begin(),ds.end());
             ans.insert(ds);
             return;
         }
