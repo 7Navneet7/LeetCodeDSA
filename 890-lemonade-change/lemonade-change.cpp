@@ -6,7 +6,7 @@ public:
             if(bills[i]==5){
                 five++;
             }
-            if(bills[i]==10){
+            else if(bills[i]==10){
                 if(five>0){
                     five--;ten++;
                 }
@@ -14,7 +14,7 @@ public:
                     return false;
                 }
             }
-            if(bills[i]==20){
+            else{
                 
                 if(ten>0 && five>0){
                     ten--;five--;
