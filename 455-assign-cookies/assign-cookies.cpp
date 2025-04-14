@@ -28,16 +28,16 @@ public:
         // }
 
 
-        int p=0,q=0;
+        int p=0,q=0,co=0;
         while(p<g.size() && q<s.size()){
             if(g[p]<=s[q]){
-                p++;q++;
+                p++;q++;co++;
             }
             else{
                 q++;
             }
         }
-        return (p);
-        //return c;
+        //return (p);
+        return co;
     }
 };
