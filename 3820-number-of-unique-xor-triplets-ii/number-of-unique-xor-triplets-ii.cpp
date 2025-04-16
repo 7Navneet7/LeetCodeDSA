@@ -45,7 +45,7 @@ public:
             }
         }
         for(int j=0;j<n;j++){
-            for(auto & x:st1){
+            for(auto &&x:st1){
                 st2.insert(x ^ nums[j]);
             }
         }
