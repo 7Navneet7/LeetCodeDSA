@@ -44,8 +44,8 @@ public:
                 st1.insert(nums[i]^nums[j]);
             }
         }
-        for(int x:st1){
-            for(int j=0;j<n;j++){
+        for(int j=0;j<n;j++){
+            for(auto & x:st1){
                 st2.insert(x ^ nums[j]);
             }
         }
