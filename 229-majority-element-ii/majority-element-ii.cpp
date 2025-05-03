@@ -42,13 +42,37 @@ public:
     // }
 
 
-    vector<int> majorityElement(vector<int>& nums) {
+    // vector<int> majorityElement(vector<int>& nums) {
+    //     int n=nums.size();
+    //     map<int,int>mp;
+    //     for(int x:nums)mp[x]++;vector<int>ans;
+    //     for(auto[key,val]:mp){
+    //         if(val>n/3)ans.push_back(key);
+    //     }
+    //     return ans;
+    // }
+
+
+    vector<int> majorityElement(vector<int>& nums){
         int n=nums.size();
-        map<int,int>mp;
-        for(int x:nums)mp[x]++;vector<int>ans;
-        for(auto[key,val]:mp){
-            if(val>n/3)ans.push_back(key);
+        int a=-1,b=-1;
+        int cnt_a=0,cnt_b=0;
+        for(int i=0;i<n;i++){
+            if(nums[i]==a)cnt_a++;
+            else if(nums[i]==b)cnt_b++;
+            else if(cnt_a==0){cnt_a++;a=nums[i];}
+            else if(cnt_b==0){cnt_b++;b=nums[i];}
+            else{cnt_a--;cnt_b--;}
+
         }
+        cnt_a=0,cnt_b=0;
+        for(int x:nums){
+            if(x==a)cnt_a++;
+            else if(x==b)cnt_b++;
+        }
+        vector<int>ans;
+        if(cnt_a>n/3)ans.push_back(a);
+        if(cnt_b>n/3)ans.push_back(b);
         return ans;
     }
 };
