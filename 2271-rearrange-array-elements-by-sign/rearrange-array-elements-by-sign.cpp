@@ -34,9 +34,13 @@ public:
             else pos.push_back(it);
         }
         vector<int>ans(n);int i=0,j=0;
-        for(int k=0;k<n;k+=1){
-            if(k%2)ans[k]=neg[j++];
-            else ans[k]=pos[i++];
+        // for(int k=0;k<n;k+=1){
+        //     if(k%2)ans[k]=neg[j++];
+        //     else ans[k]=pos[i++];
+        // }
+
+        for(int k=0;k<n/2;k++){
+            ans[2*k]=pos[i++];ans[2*k+1]=neg[j++];
         }
         return ans;
     }    
