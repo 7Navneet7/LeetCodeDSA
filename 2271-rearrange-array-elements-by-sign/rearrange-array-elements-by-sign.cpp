@@ -26,22 +26,34 @@ public:
 
 
 
+    // vector<int> rearrangeArray(vector<int>& nums) {
+    //     int n=nums.size();
+    //     vector<int>pos,neg;
+    //     for(auto &it:nums){
+    //         if(it<0)neg.push_back(it);
+    //         else pos.push_back(it);
+    //     }
+    //     vector<int>ans(n);int i=0,j=0;
+    //     // for(int k=0;k<n;k+=1){
+    //     //     if(k%2)ans[k]=neg[j++];
+    //     //     else ans[k]=pos[i++];
+    //     // }
+
+    //     for(int k=0;k<n/2;k++){
+    //         ans[2*k]=pos[i++];ans[2*k+1]=neg[j++];
+    //     }
+    //     return ans;
+    // }  
+
+
     vector<int> rearrangeArray(vector<int>& nums) {
         int n=nums.size();
-        vector<int>pos,neg;
+        vector<int>ans(n);int i=0,j=1;
         for(auto &it:nums){
-            if(it<0)neg.push_back(it);
-            else pos.push_back(it);
-        }
-        vector<int>ans(n);int i=0,j=0;
-        // for(int k=0;k<n;k+=1){
-        //     if(k%2)ans[k]=neg[j++];
-        //     else ans[k]=pos[i++];
-        // }
-
-        for(int k=0;k<n/2;k++){
-            ans[2*k]=pos[i++];ans[2*k+1]=neg[j++];
+            if(it<0){ans[j]=it;j+=2;}
+            else {ans[i]=it;i+=2;}
         }
         return ans;
-    }    
+    }        
+
 };
