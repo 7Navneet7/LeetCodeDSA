@@ -1,31 +1,25 @@
-typedef __int128 ll;
-
+typedef __int128_t ll;
 class Solution {
 public:
-    bool solve(int i, ll prod, ll target, vector<int>& nums) {
-        if (prod > target) return false;
-        if (prod == target) return true;
-        if (i == nums.size()) return false;
-        
-        // Include nums[i]
-        if (solve(i + 1, prod * nums[i], target, nums)) return true;
+    //using ll=long long;
+    bool solve(int i,ll prod,ll targ,vector<int>&nums){
+        if(prod>targ)return false;
+        if(prod==targ)return true;
+        if(i==nums.size())return false;
 
-        // Exclude nums[i]
-        if (solve(i + 1, prod, target, nums)) return true;
+        if(solve(i+1,prod*nums[i],targ,nums))return true;
 
+        if(solve(i+1,prod,targ,nums))return true;
         return false;
     }
-
-    bool checkEqualPartitions(vector<int>& nums, long long target) {
-        int n = nums.size();
-        ll total = 1;
-        for (int x : nums) {
-            total *= x;
-            if (total > (ll)target * target) return false;
+    bool checkEqualPartitions(vector<int>& nums, ll target) {
+        int n=nums.size();
+        ll tot=1;
+        for(int x:nums){
+            tot*=x;
+            if((ll)tot > (ll)target*target)return false;
         }
-
-        if (total != (ll)target * target) return false;
-
-        return solve(0, 1, target, nums);
+        if(tot!= (ll)target*target)return false;
+        return solve(0,1,target,nums);
     }
 };
