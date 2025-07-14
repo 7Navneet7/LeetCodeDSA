@@ -4,9 +4,9 @@ public:
        int n=nums.size(),l=0,h=n-1;int ans=INT_MAX;
        while(l<=h){
             int m=(l+h)/2;
-            // if(nums[l]<=nums[h]){
-            //     return nums[l];
-            // }
+            if(nums[l]<=nums[h]){
+                return min(ans ,nums[l]);
+            }
             if(nums[l]<=nums[m]){
                 ans=min(nums[l],ans);l=m+1;
             }
