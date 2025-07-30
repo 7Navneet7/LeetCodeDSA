@@ -11,20 +11,12 @@
  */
 class Solution {
 public:
-    void inorder(TreeNode* root,vector<int>&in){
-        if(root==NULL)return;
-        inorder(root->left,in);
-        in.push_back(root->val);
-        inorder(root->right,in);
-    }
+    set<int>st;
     bool findTarget(TreeNode* root, int k) {
-        vector<int>in;
-        inorder(root,in);
-        for(int i=0;i<in.size()-1;i++){
-            for(int j=i+1;j<in.size();j++){
-                if(in[i]+in[j]==k)return true;
-            }
-        }
-        return false;
+        if(root==NULL)return false;
+        //if(st.count(k-root->val))return true;
+        if(st.find(k-root->val)!=st.end())return true; 
+        st.insert(root->val);
+        return (findTarget(root->left,k)||findTarget(root->right,k));
     }
 };
