@@ -1,14 +1,11 @@
+using ll=long long;
 class Solution {
 public:
     long long maximumMedianSum(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
-        int left = 0, right = nums.size()-1;
-        long long ans = 0;
-        while (left < right) {
-            right--;
-            ans += nums[right];
-            left++;
-            right--;
+        int i=0,j=nums.size()-1;ll ans=0;
+        sort(nums.begin(),nums.end());
+        while(i<j){
+            j--;ans+=nums[j];j--;i++;
         }
         return ans;
     }
