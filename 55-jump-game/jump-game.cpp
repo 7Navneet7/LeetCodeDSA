@@ -1,23 +1,27 @@
 class Solution {
 public:
-    // bool canJump(vector<int>& nums) {
-    //     int goal = nums.size() - 1;
-
-    //     for (int i = nums.size() - 2; i >= 0; i--) {
-    //         if (i + nums[i] >= goal) {
-    //             goal = i;
-    //         }
-    //     }
-
-    //     return goal == 0;        
-    // }
-
-    bool canJump(vector<int>& nums){
-        int max_ind=0;
-        for(int i=0;i<nums.size();i++){
-            if(i>max_ind)return false;
-            max_ind=max(max_ind,i+nums[i]);
+    bool util(int ind,vector<int>&nums){
+        int n=nums.size();
+        if(ind==n-1)return true;
+        if(nums[ind]==0)return false;
+        int rang=ind+nums[ind];
+        for(int i=ind+1;i<=rang;i++){
+            if(i<n && util(i,nums))return true;
         }
-        return true;
+        return false;
+    }
+    bool util1(int ind,vector<int>&nums,vector<int>&dp){
+        if(dp[ind]!=-1)return dp[ind];
+        if(ind==nums.size()-1)return dp[ind]=true;
+        if(dp[ind]==0)return dp[ind]=false;
+        int rang=ind+nums[ind];
+        for(int i=ind+1;i<=rang;i++){
+            if(i<nums.size()&&util1(i,nums,dp))return dp[ind]=true;
+        }
+        return dp[ind]=false;
+    }
+    bool canJump(vector<int>& nums) {
+        vector<int>dp(nums.size(),-1);
+        return util1(0,nums,dp);
     }
 };
