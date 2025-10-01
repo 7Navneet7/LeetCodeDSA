@@ -1,32 +1,35 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        int n = nums1.size();
-        int m = nums2.size();
-        int i = 0, j = 0, m1 = 0, m2 = 0;
+        if (nums1.size() > nums2.size()) {
+            return findMedianSortedArrays(nums2, nums1);
+        }
 
-        // Find median.
-        for (int count = 0; count <= (n + m) / 2; count++) {
-            m2 = m1;
-            if (i != n && j != m) {
-                if (nums1[i] > nums2[j]) {
-                    m1 = nums2[j++];
+        int len1 = nums1.size(), len2 = nums2.size();
+        int left = 0, right = len1;
+
+        while (left <= right) {
+            int part1 = (left + right) / 2;
+            int part2 = (len1 + len2 + 1) / 2 - part1;
+
+            int maxLeft1 = (part1 == 0) ? INT_MIN : nums1[part1 - 1];
+            int minRight1 = (part1 == len1) ? INT_MAX : nums1[part1];
+            int maxLeft2 = (part2 == 0) ? INT_MIN : nums2[part2 - 1];
+            int minRight2 = (part2 == len2) ? INT_MAX : nums2[part2];
+
+            if (maxLeft1 <= minRight2 && maxLeft2 <= minRight1) {
+                if ((len1 + len2) % 2 == 0) {
+                    return (max(maxLeft1, maxLeft2) + min(minRight1, minRight2)) / 2.0;
                 } else {
-                    m1 = nums1[i++];
+                    return max(maxLeft1, maxLeft2);
                 }
-            } else if (i < n) {
-                m1 = nums1[i++];
+            } else if (maxLeft1 > minRight2) {
+                right = part1 - 1;
             } else {
-                m1 = nums2[j++];
+                left = part1 + 1;
             }
         }
 
-        // Check if the sum of n and m is odd.
-        if ((n + m) % 2 == 1) {
-            return static_cast<double>(m1);
-        } else {
-            double ans = static_cast<double>(m1) + static_cast<double>(m2);
-            return ans / 2.0;
-        }
+        return 0.0;        
     }
 };
