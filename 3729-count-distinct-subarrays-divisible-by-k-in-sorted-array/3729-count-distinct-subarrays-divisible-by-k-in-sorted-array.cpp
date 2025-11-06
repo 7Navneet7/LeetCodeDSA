@@ -1,4 +1,6 @@
-    long long numGoodSubarrays(vector<int>& A, int k) {
+class Solution {
+public:
+        long long numGoodSubarrays(vector<int>& A, int k) {
         unordered_map<int,long long> cnt;
         cnt[0] = 1;
         int pre = 0, n = A.size();
@@ -18,3 +20,4 @@
         }
         return res;
     }
+};
