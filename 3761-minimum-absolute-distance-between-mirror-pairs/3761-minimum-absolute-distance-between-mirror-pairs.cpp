@@ -1,26 +1,29 @@
 class Solution {
 public:
-
-    int rev(int nu){
-        int res=0;
-        while(nu>0){
-            if(nu%10==0)continue;
-            res=res*10+nu%10;
-            nu/=10;
+    int reverse(int x){
+        int res = 0;
+        while(x){
+            res = res * 10 + x % 10;
+            x /= 10;
         }
         return res;
     }
+
     int minMirrorPairDistance(vector<int>& nums) {
-        map<int,int>mp;
-        mp[rev(nums[0])]=0;
-        int n=nums.size();int ans=INT_MAX;
-        for(int i=1;i<n;i++){
-            if(mp.count(nums[i]))ans=min(ans,abs(mp[nums[i]]-i));
-                
-            
-            mp[rev(nums[i])]=i;
+        unordered_map<int, int> lastOcc;
+
+        // store reverse of first element
+        lastOcc[reverse(nums[0])] = 0;
+
+        int res = INT_MAX;
+
+        for(int j = 1; j < nums.size(); j++){
+            if(lastOcc.count(nums[j])){
+                res = min(res, j - lastOcc[nums[j]]);
+            }
+            lastOcc[reverse(nums[j])] = j;
         }
-        if(ans!=INT_MAX)return ans;
-        else return -1;
+
+        return (res == INT_MAX) ? -1 : res;
     }
 };
