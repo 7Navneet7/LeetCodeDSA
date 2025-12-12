@@ -1,35 +1,33 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        if (nums1.size() > nums2.size()) {
-            return findMedianSortedArrays(nums2, nums1);
+        // Get the sizes of both input arrays.
+        int n = nums1.size();
+        int m = nums2.size();
+
+        // Merge the arrays into a single sorted array.
+        vector<int> merged;
+        for (int i = 0; i < n; i++) {
+            merged.push_back(nums1[i]);
+        }
+        for (int i = 0; i < m; i++) {
+            merged.push_back(nums2[i]);
         }
 
-        int len1 = nums1.size(), len2 = nums2.size();
-        int left = 0, right = len1;
+        // Sort the merged array.
+        sort(merged.begin(), merged.end());
 
-        while (left <= right) {
-            int part1 = (left + right) / 2;
-            int part2 = (len1 + len2 + 1) / 2 - part1;
+        // Calculate the total number of elements in the merged array.
+        int total = merged.size();
 
-            int maxLeft1 = (part1 == 0) ? INT_MIN : nums1[part1 - 1];
-            int minRight1 = (part1 == len1) ? INT_MAX : nums1[part1];
-            int maxLeft2 = (part2 == 0) ? INT_MIN : nums2[part2 - 1];
-            int minRight2 = (part2 == len2) ? INT_MAX : nums2[part2];
-
-            if (maxLeft1 <= minRight2 && maxLeft2 <= minRight1) {
-                if ((len1 + len2) % 2 == 0) {
-                    return (max(maxLeft1, maxLeft2) + min(minRight1, minRight2)) / 2.0;
-                } else {
-                    return max(maxLeft1, maxLeft2);
-                }
-            } else if (maxLeft1 > minRight2) {
-                right = part1 - 1;
-            } else {
-                left = part1 + 1;
-            }
+        if (total % 2 == 1) {
+            // If the total number of elements is odd, return the middle element as the median.
+            return static_cast<double>(merged[total / 2]);
+        } else {
+            // If the total number of elements is even, calculate the average of the two middle elements as the median.
+            int middle1 = merged[total / 2 - 1];
+            int middle2 = merged[total / 2];
+            return (static_cast<double>(middle1) + static_cast<double>(middle2)) / 2.0;
         }
-
-        return 0.0;        
     }
 };
