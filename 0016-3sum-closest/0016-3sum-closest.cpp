@@ -1,50 +1,26 @@
-// class Solution {
-// public:
-//     int threeSumClosest(vector<int>& nums, int target) {
-//         sort(nums.begin(),nums.end());
-//         int d;
-//         for(int i=0;i<nums.size();i++){
-//             int j=i+1;
-//             int di;
-//             int k=nums.size()-1;
-//             int sum=nums[i]+nums[j]+nums[k];
-//             if(sum==target){
-//                 d=0;
-//                 break;
-//             }
-//             else if(sum<target){
-//                 di=target-sum;
-//                 j++;
-//             }
-//             else{
-//                 di=sum-target;
-//                 k--;
-//             }
-//             if(di<d){
-//                 d=di;
-//             }
-//         }
-//         return d;
-//     }
-// }
-class Solution{
-    public:
-    int threeSumClosest(std::vector<int>& nums,int target){
-        int clos_sum=std::numeric_limits<int>::max();
-        int clos_diff=std::numeric_limits<int>::max();
+class Solution {
+public:
+    int threeSumClosest(vector<int>& nums, int tar) {
+        int mn=INT_MAX;int ans=0;
         int n=nums.size();
+        sort(nums.begin(),nums.end());
         for(int i=0;i<n-2;i++){
-            for(int j=i+1;j<n-1;j++){
-                for(int k=j+1;k<n;k++){
-                    int c_s=nums[i]+nums[j]+nums[k];
-                    int c_d=std::abs(c_s-target);
-                    if(c_d<clos_diff){
-                        clos_diff=c_d;
-                        clos_sum=c_s;
-                    }
+            if(i>0 && nums[i]==nums[i-1])continue;
+            int l=i+1,r=n-1;
+            while(l<r){
+                int su=nums[i]+nums[l]+nums[r];
+                int diff=tar-su;
+                if(diff==0){
+                    return su;
                 }
+                else if(diff>0){
+                    if(diff<mn){ans=su;mn=diff;}
+                    l++;
+                }
+                else {r--;if(abs(diff)<mn){ans=su;mn=abs(diff);}}
             }
         }
-        return clos_sum;
+        return ans;
+        
     }
 };
