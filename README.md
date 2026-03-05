@@ -48,4 +48,8 @@ DSA Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0739-daily-temperatures/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 <!---LeetCode Topics End-->
