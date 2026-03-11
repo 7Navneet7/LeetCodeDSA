@@ -19,6 +19,7 @@ DSA Problems
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1009-complement-of-base-10-integer](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [3937-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/7Navneet7/LeetCodeDSA/tree/master/3937-number-of-integers-with-popcount-depth-equal-to-k-i) |
 ## Combinatorics
 | Problem Name | Difficulty |
