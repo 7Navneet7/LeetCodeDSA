@@ -7,6 +7,7 @@ DSA Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0233-number-of-digit-one](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0233-number-of-digit-one/) | Hard |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [3937-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/7Navneet7/LeetCodeDSA/tree/master/3937-number-of-integers-with-popcount-depth-equal-to-k-i) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -67,4 +68,8 @@ DSA Problems
 | ------- | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 <!---LeetCode Topics End-->
