@@ -1,19 +1,12 @@
 class Solution {
 public:
-    int numWaterBottles(int num, int numEx) {
-        int emp=0;int d=0;
-        if(num>0){
-                emp+=num;
-                d+=num;
+    int numWaterBottles(int nB, int nE) {
+        int emp=nB;int c=nB;
+        while(emp>=nE){
+            c+=(emp/nE);
+            emp=(emp/nE)+(emp%nE);
         }
-        while(emp>=numEx){
-            
-            if(emp>0){
-                d+=(emp/numEx);
-                emp=(emp/numEx)+(emp%numEx);
-            }
-        }
-        return d;
+        return c;
         
     }
 };
