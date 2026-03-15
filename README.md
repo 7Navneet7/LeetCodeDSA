@@ -8,6 +8,7 @@ DSA Problems
 | ------- | ------- |
 | [0233-number-of-digit-one](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [1518-water-bottles](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1518-water-bottles/) | Easy |
+| [1622-fancy-sequence](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1622-fancy-sequence/) | Hard |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3937-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/7Navneet7/LeetCodeDSA/tree/master/3937-number-of-integers-with-popcount-depth-equal-to-k-i) |
@@ -131,4 +132,9 @@ DSA Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1521-find-a-value-of-a-mysterious-function-closest-to-target/) | Hard |
+| [1622-fancy-sequence](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1622-fancy-sequence/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1622-fancy-sequence/) | Hard |
 <!---LeetCode Topics End-->
