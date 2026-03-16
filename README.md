@@ -9,6 +9,7 @@ DSA Problems
 | [0233-number-of-digit-one](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [1518-water-bottles](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1518-water-bottles/) | Easy |
 | [1622-fancy-sequence](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1622-fancy-sequence/) | Hard |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3937-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/7Navneet7/LeetCodeDSA/tree/master/3937-number-of-integers-with-popcount-depth-equal-to-k-i) |
@@ -41,6 +42,7 @@ DSA Problems
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1521-find-a-value-of-a-mysterious-function-closest-to-target/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -53,6 +55,7 @@ DSA Problems
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +78,7 @@ DSA Problems
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Simulation
@@ -103,6 +107,7 @@ DSA Problems
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -137,4 +142,8 @@ DSA Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1622-fancy-sequence/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->
