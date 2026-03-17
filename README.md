@@ -42,12 +42,14 @@ DSA Problems
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1521-find-a-value-of-a-mysterious-function-closest-to-target/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Matrix
@@ -55,6 +57,7 @@ DSA Problems
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -145,5 +148,6 @@ DSA Problems
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->
