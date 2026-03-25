@@ -44,6 +44,7 @@ DSA Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0454-4sum-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0454-4sum-ii/) | Medium |
+| [0475-heaters](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0475-heaters/) | Medium |
 | [0739-daily-temperatures](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0739-daily-temperatures/) | Medium |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1521-find-a-value-of-a-mysterious-function-closest-to-target/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -109,6 +110,7 @@ DSA Problems
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0475-heaters](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0475-heaters/) | Medium |
 | [1201-ugly-number-iii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1201-ugly-number-iii/) | Medium |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1521-find-a-value-of-a-mysterious-function-closest-to-target/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -167,6 +169,7 @@ DSA Problems
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0475-heaters](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0475-heaters/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1755-closest-subsequence-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -178,6 +181,7 @@ DSA Problems
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0475-heaters](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0475-heaters/) | Medium |
 | [1755-closest-subsequence-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1755-closest-subsequence-sum/) | Hard |
 ## Bitmask
 | Problem Name | Difficulty |
