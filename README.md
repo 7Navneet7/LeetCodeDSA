@@ -58,6 +58,7 @@ DSA Problems
 | [1727-largest-submatrix-with-rearrangements](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1755-closest-subsequence-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2218-maximum-value-of-k-coins-from-piles/) | Hard |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
@@ -115,6 +116,7 @@ DSA Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1518-water-bottles](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1518-water-bottles/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -195,6 +197,7 @@ DSA Problems
 | ------- | ------- |
 | [0475-heaters](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0475-heaters/) | Medium |
 | [1755-closest-subsequence-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1755-closest-subsequence-sum/) | Hard |
+| [2161-partition-array-according-to-given-pivot](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
