@@ -8,6 +8,7 @@ DSA Problems
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0233-number-of-digit-one](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0233-number-of-digit-one/) | Hard |
+| [0808-soup-servings](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0808-soup-servings/) | Medium |
 | [1201-ugly-number-iii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1201-ugly-number-iii/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1518-water-bottles](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1518-water-bottles/) | Easy |
@@ -24,6 +25,7 @@ DSA Problems
 | [0005-longest-palindromic-substring](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0233-number-of-digit-one](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0808-soup-servings](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0808-soup-servings/) | Medium |
 | [1755-closest-subsequence-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2218-maximum-value-of-k-coins-from-piles/) | Hard |
@@ -232,4 +234,8 @@ DSA Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0002-add-two-numbers/) | Medium |
+## Probability and Statistics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0808-soup-servings](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0808-soup-servings/) | Medium |
 <!---LeetCode Topics End-->
