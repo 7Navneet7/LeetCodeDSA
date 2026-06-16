@@ -193,6 +193,7 @@ DSA Problems
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0707-design-linked-list](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0707-design-linked-list/) | Medium |
 | [1622-fancy-sequence](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1622-fancy-sequence/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -234,6 +235,7 @@ DSA Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0002-add-two-numbers/) | Medium |
+| [0707-design-linked-list](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0707-design-linked-list/) | Medium |
 ## Probability and Statistics
 | Problem Name | Difficulty |
 | ------- | ------- |
