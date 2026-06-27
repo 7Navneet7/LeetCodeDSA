@@ -107,6 +107,7 @@ DSA Problems
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -116,6 +117,7 @@ DSA Problems
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Prefix Sum
@@ -169,6 +171,7 @@ DSA Problems
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0454-4sum-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0454-4sum-ii/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 ## Tree
