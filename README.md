@@ -24,6 +24,7 @@ DSA Problems
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0233-number-of-digit-one](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0233-number-of-digit-one/) | Hard |
+| [0322-coin-change](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0322-coin-change/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0808-soup-servings](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0808-soup-servings/) | Medium |
 | [1755-closest-subsequence-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1755-closest-subsequence-sum/) | Hard |
@@ -55,6 +56,7 @@ DSA Problems
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0162-find-peak-element/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0322-coin-change](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0322-coin-change/) | Medium |
 | [0454-4sum-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0454-4sum-ii/) | Medium |
 | [0475-heaters](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0475-heaters/) | Medium |
 | [0739-daily-temperatures](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0739-daily-temperatures/) | Medium |
@@ -180,6 +182,7 @@ DSA Problems
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0322-coin-change/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
