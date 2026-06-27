@@ -61,6 +61,7 @@ DSA Problems
 | [0475-heaters](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0475-heaters/) | Medium |
 | [0739-daily-temperatures](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1095-find-in-mountain-array](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1521-find-a-value-of-a-mysterious-function-closest-to-target/) | Hard |
@@ -119,6 +120,7 @@ DSA Problems
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0992-subarrays-with-k-different-integers](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -173,6 +175,7 @@ DSA Problems
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0454-4sum-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0454-4sum-ii/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -190,6 +193,7 @@ DSA Problems
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
