@@ -113,6 +113,7 @@ DSA Problems
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0076-minimum-window-substring](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -122,6 +123,7 @@ DSA Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0930-binary-subarrays-with-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -181,6 +183,7 @@ DSA Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0454-4sum-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0454-4sum-ii/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
