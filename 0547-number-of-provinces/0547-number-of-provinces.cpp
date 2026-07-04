@@ -1,13 +1,13 @@
 class Solution {
 public:
-    void dfs(int cur,vector<vector<int>>&adj,vector<bool>&vis){
-        vis[cur]=1;
-        for(int nei:adj[cur]){
-            if(!vis[nei]){
-                dfs(nei,adj,vis);
-            }
-        }
-    }
+    // void dfs(int cur,vector<vector<int>>&adj,vector<bool>&vis){
+    //     vis[cur]=1;
+    //     for(int nei:adj[cur]){
+    //         if(!vis[nei]){
+    //             dfs(nei,adj,vis);
+    //         }
+    //     }
+    // }
     int findCircleNum(vector<vector<int>>& mat) {
         int v=mat.size();
         vector<vector<int>>adj(v);
@@ -24,7 +24,18 @@ public:
         for(int i=0;i<v;i++){
             if(!vis[i]){
                 com++;
-                dfs(i,adj,vis);
+                queue<int>q;
+                q.push(i);vis[i]=1;
+                while(!q.empty()){
+                    int cur=q.front();q.pop();
+                    for(int nei:adj[cur]){
+                        if(!vis[nei]){
+                            vis[nei]=1;
+                            q.push(nei);
+                        }
+                    }
+                }
+
             }
         }
         return com;
