@@ -64,6 +64,7 @@ DSA Problems
 | [0852-peak-index-in-a-mountain-array](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [0994-rotting-oranges](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -92,6 +93,7 @@ DSA Problems
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0994-rotting-oranges](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -208,6 +210,7 @@ DSA Problems
 | ------- | ------- |
 | [0322-coin-change](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0547-number-of-provinces/) | Medium |
+| [0994-rotting-oranges](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Counting
