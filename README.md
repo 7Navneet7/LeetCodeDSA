@@ -174,6 +174,7 @@ DSA Problems
 | [0130-surrounded-regions](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -181,6 +182,7 @@ DSA Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Minimum Spanning Tree
@@ -219,6 +221,7 @@ DSA Problems
 | [0200-number-of-islands](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -231,6 +234,7 @@ DSA Problems
 | [0322-coin-change](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0994-rotting-oranges](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
