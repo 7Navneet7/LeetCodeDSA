@@ -122,6 +122,7 @@ DSA Problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0076-minimum-window-substring](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0076-minimum-window-substring/) | Hard |
+| [0127-word-ladder](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0127-word-ladder/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -198,6 +199,7 @@ DSA Problems
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0076-minimum-window-substring/) | Hard |
+| [0127-word-ladder](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0127-word-ladder/) | Hard |
 | [0454-4sum-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0454-4sum-ii/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -219,6 +221,7 @@ DSA Problems
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0127-word-ladder](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0322-coin-change](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0547-number-of-provinces/) | Medium |
