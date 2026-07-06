@@ -184,6 +184,7 @@ DSA Problems
 | [0547-number-of-provinces](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1020-number-of-enclaves/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -194,6 +195,7 @@ DSA Problems
 | [0743-network-delay-time](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -241,6 +243,7 @@ DSA Problems
 | [0785-is-graph-bipartite](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1020-number-of-enclaves](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1020-number-of-enclaves/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -259,6 +262,7 @@ DSA Problems
 | [0994-rotting-oranges](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
