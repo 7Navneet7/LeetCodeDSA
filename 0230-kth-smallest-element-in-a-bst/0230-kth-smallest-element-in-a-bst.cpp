@@ -11,20 +11,16 @@
  */
 class Solution {
 public:
+    int ans=-1;int cnt=0;
     int kthSmallest(TreeNode* root, int k) {
-        stack<TreeNode*>st;
-        TreeNode* cur=root;
-        while(cur!=nullptr||!st.empty()){
-            while(cur!=nullptr){
-                st.push(cur);
-                cur=cur->left;
-            }
-            cur=st.top();st.pop();
-            if(--k==0){
-                return cur->val;
-            }
-            cur=cur->right;
-        }
-        return -1;
+        inorder(root,k);
+        return ans;
+    }
+    void inorder(TreeNode* root,int k){
+        if(root==nullptr)return;
+        inorder(root->left,k);
+        cnt++;
+        if(cnt==k){ans=root->val;return;}
+        inorder(root->right,k);
     }
 };
