@@ -71,6 +71,7 @@ DSA Problems
 | [0930-binary-subarrays-with-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0994-rotting-oranges/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1020-number-of-enclaves](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1095-find-in-mountain-array/) | Hard |
@@ -121,10 +122,12 @@ DSA Problems
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0739-daily-temperatures/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0739-daily-temperatures/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,6 +241,7 @@ DSA Problems
 | [0230-kth-smallest-element-in-a-bst](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -354,6 +358,7 @@ DSA Problems
 | [0230-kth-smallest-element-in-a-bst](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -361,4 +366,5 @@ DSA Problems
 | [0230-kth-smallest-element-in-a-bst](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
