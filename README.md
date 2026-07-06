@@ -234,6 +234,7 @@ DSA Problems
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -241,6 +242,7 @@ DSA Problems
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0130-surrounded-regions](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0200-number-of-islands/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -348,12 +350,14 @@ DSA Problems
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
