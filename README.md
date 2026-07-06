@@ -183,6 +183,7 @@ DSA Problems
 | [0200-number-of-islands](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1020-number-of-enclaves](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -195,6 +196,7 @@ DSA Problems
 | [0743-network-delay-time](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -225,6 +227,7 @@ DSA Problems
 | [0127-word-ladder](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0127-word-ladder/) | Hard |
 | [0454-4sum-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0454-4sum-ii/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
@@ -242,6 +245,7 @@ DSA Problems
 | [0743-network-delay-time](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1020-number-of-enclaves](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
