@@ -8,6 +8,7 @@ DSA Problems
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0062-unique-paths](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0062-unique-paths/) | Medium |
+| [0070-climbing-stairs](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0233-number-of-digit-one](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [0808-soup-servings](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0808-soup-servings/) | Medium |
 | [1201-ugly-number-iii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1201-ugly-number-iii/) | Medium |
@@ -28,6 +29,7 @@ DSA Problems
 | [0005-longest-palindromic-substring](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0062-unique-paths](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0063-unique-paths-ii/) | Medium |
+| [0070-climbing-stairs](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0120-triangle](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0120-triangle/) | Medium |
 | [0233-number-of-digit-one](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [0322-coin-change](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0322-coin-change/) | Medium |
@@ -383,4 +385,8 @@ DSA Problems
 | [0700-search-in-a-binary-search-tree](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
