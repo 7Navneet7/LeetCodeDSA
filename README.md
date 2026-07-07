@@ -25,6 +25,7 @@ DSA Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0063-unique-paths-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0233-number-of-digit-one](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [0322-coin-change](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0322-coin-change/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -60,6 +61,7 @@ DSA Problems
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0162-find-peak-element](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0162-find-peak-element/) | Medium |
 | [0200-number-of-islands](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0200-number-of-islands/) | Medium |
@@ -105,6 +107,7 @@ DSA Problems
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0733-flood-fill/) | Easy |
