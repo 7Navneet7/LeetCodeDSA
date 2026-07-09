@@ -45,6 +45,7 @@ DSA Problems
 | [1755-closest-subsequence-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2218-maximum-value-of-k-coins-from-piles/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
@@ -55,6 +56,7 @@ DSA Problems
 | [1009-complement-of-base-10-integer](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1521-find-a-value-of-a-mysterious-function-closest-to-target/) | Hard |
 | [1755-closest-subsequence-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1755-closest-subsequence-sum/) | Hard |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [3937-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/7Navneet7/LeetCodeDSA/tree/master/3937-number-of-integers-with-popcount-depth-equal-to-k-i) |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -105,6 +107,7 @@ DSA Problems
 | [1727-largest-submatrix-with-rearrangements](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1755-closest-subsequence-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2161-partition-array-according-to-given-pivot](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2218-maximum-value-of-k-coins-from-piles/) | Hard |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
@@ -201,6 +204,7 @@ DSA Problems
 | [1201-ugly-number-iii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1201-ugly-number-iii/) | Medium |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1521-find-a-value-of-a-mysterious-function-closest-to-target/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Union-Find
@@ -326,6 +330,7 @@ DSA Problems
 | [1727-largest-submatrix-with-rearrangements](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1755-closest-subsequence-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -338,11 +343,13 @@ DSA Problems
 | [0005-longest-palindromic-substring](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0475-heaters](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0475-heaters/) | Medium |
 | [1755-closest-subsequence-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1755-closest-subsequence-sum/) | Hard |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2161-partition-array-according-to-given-pivot](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1755-closest-subsequence-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1755-closest-subsequence-sum/) | Hard |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -395,4 +402,8 @@ DSA Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0070-climbing-stairs/) | Easy |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 <!---LeetCode Topics End-->
