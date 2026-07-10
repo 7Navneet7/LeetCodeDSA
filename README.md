@@ -112,6 +112,7 @@ DSA Problems
 | [2161-partition-array-according-to-given-pivot](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2218-maximum-value-of-k-coins-from-piles/) | Hard |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2952-minimum-number-of-coins-to-be-added/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -123,6 +124,7 @@ DSA Problems
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2952-minimum-number-of-coins-to-be-added/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Matrix
@@ -334,6 +336,7 @@ DSA Problems
 | [1755-closest-subsequence-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2952-minimum-number-of-coins-to-be-added/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
