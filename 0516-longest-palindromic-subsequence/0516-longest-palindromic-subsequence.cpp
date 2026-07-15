@@ -1,22 +1,21 @@
 class Solution {
 public:
-    int lcs(string s,string t){
-        int sl=s.size();int tl=t.size();
-        vector<vector<int>>dp(sl+1,vector<int>(tl+1,0));
-    
-        for(int i=1;i<=sl;i++){
-            for(int j=1;j<=tl;j++){
-                if(s[i-1]==t[j-1]){
-                    dp[i][j]=1+dp[i-1][j-1];
+    int longestPalindromeSubseq(string s) {
+        int sl=s.size();
+        vector<vector<int>>dp(sl,vector<int>(sl,0));
+        //single char is always pal
+        for(int i=0;i<sl;i++){
+            dp[i][i]=1;
+        }
+        for(int i=sl-1;i>=0;i--){
+            for(int j=i+1;j<sl;j++){
+                if(s[i]==s[j]){
+                    dp[i][j]=2+dp[i+1][j-1];
                 }
-                else dp[i][j]=max(dp[i-1][j],dp[i][j-1]);
+                else dp[i][j]=max(dp[i+1][j],dp[i][j-1]);
             }
         }
-        return dp[sl][tl];
-    }
-    int longestPalindromeSubseq(string s) {
-        string r=s;
-        reverse(r.begin(),r.end());
-        return lcs(s,r);
+        return dp[0][sl-1];
+
     }
 };
