@@ -105,6 +105,7 @@ DSA Problems
 | [0992-subarrays-with-k-different-integers](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/7Navneet7/LeetCodeDSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1095-find-in-mountain-array/) | Hard |
@@ -224,6 +225,7 @@ DSA Problems
 | [0475-heaters](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0475-heaters/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/7Navneet7/LeetCodeDSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1201-ugly-number-iii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1201-ugly-number-iii/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/7Navneet7/LeetCodeDSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
