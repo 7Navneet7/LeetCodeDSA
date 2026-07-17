@@ -110,6 +110,7 @@ DSA Problems
 | [1095-find-in-mountain-array](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/7Navneet7/LeetCodeDSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/7Navneet7/LeetCodeDSA/tree/master/1331-rank-transform-of-an-array) |
 | [1463-cherry-pickup-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1521-find-a-value-of-a-mysterious-function-closest-to-target/) | Hard |
@@ -225,6 +226,7 @@ DSA Problems
 | [0875-koko-eating-bananas](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0875-koko-eating-bananas) |
 | [1095-find-in-mountain-array](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1201-ugly-number-iii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1201-ugly-number-iii/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/7Navneet7/LeetCodeDSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1521-find-a-value-of-a-mysterious-function-closest-to-target/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
