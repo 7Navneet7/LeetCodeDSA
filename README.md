@@ -27,6 +27,7 @@ DSA Problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0055-jump-game](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0070-climbing-stairs/) | Easy |
@@ -80,6 +81,7 @@ DSA Problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0001-two-sum) |
+| [0055-jump-game](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0120-triangle](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0120-triangle/) | Medium |
 | [0130-surrounded-regions](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0130-surrounded-regions/) | Medium |
@@ -135,6 +137,7 @@ DSA Problems
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
