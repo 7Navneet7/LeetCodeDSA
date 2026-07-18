@@ -1,16 +1,13 @@
 class Solution {
 public:
-    bool util(int ind,vector<int>&nums){
-        int n=nums.size();
-        if(ind==n-1)return true;
-        if(nums[ind]==0)return false;
-        int rang=ind+nums[ind];
-        for(int i=ind+1;i<=rang;i++){
-            if(i<n && util(i,nums))return true;
+    bool canJump(vector<int>& nu) {
+        int n=nu.size();
+        int mxj=0;
+        for(int i=0;i<n;i++){
+            if(mxj<i)return 0;
+            mxj=max(mxj,i+nu[i]);
+            if(mxj>=n)return 1;
         }
-        return false;
-    }
-    bool canJump(vector<int>& nums) {
-        return util(0,nums);
+        return 1;
     }
 };
