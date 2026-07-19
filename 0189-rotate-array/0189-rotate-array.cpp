@@ -1,26 +1,12 @@
 class Solution {
 public:
-    void rotate(vector<int>& nums, int k) {
-        int n=nums.size();
-        if(n==0){
-            return;
-        }
+    void rotate(vector<int>& nu, int k) {
+        int n=nu.size();
         k=k%n;
-        if(k>n){
-            return;
+        vector<int>nu2(nu.begin(),nu.end());
+        for(int i=0;i<n;i++){
+            nu[i]=nu2[((i-k)+n)%n];
         }
-        // if(k<n){
-        vector<int>tem;
-        for(int i=n-k;i<n;i++){
-            tem.push_back(nums[i]);
-        }
-        vector<int>nums2=nums;
-        for(int i=k;i<n;i++){
-            nums[i]=nums2[i-k];
-        }
-        for(int i=0;i<k;i++){
-            nums[i]=tem[i];
-        }
-        // }
+
     }
 };
