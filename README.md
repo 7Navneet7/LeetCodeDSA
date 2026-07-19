@@ -9,6 +9,7 @@ DSA Problems
 | [0002-add-two-numbers](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0062-unique-paths](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0189-rotate-array](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0189-rotate-array/) | Medium |
 | [0233-number-of-digit-one](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [0808-soup-servings](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0808-soup-servings/) | Medium |
 | [1201-ugly-number-iii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1201-ugly-number-iii/) | Medium |
@@ -86,6 +87,7 @@ DSA Problems
 | [0120-triangle](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0120-triangle/) | Medium |
 | [0130-surrounded-regions](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0162-find-peak-element](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0162-find-peak-element/) | Medium |
+| [0189-rotate-array](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0213-house-robber-ii/) | Medium |
@@ -390,6 +392,7 @@ DSA Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0189-rotate-array](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0189-rotate-array/) | Medium |
 | [0475-heaters](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0475-heaters/) | Medium |
 | [1755-closest-subsequence-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
