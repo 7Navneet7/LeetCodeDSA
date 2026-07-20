@@ -64,6 +64,7 @@ DSA Problems
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1521-find-a-value-of-a-mysterious-function-closest-to-target/) | Hard |
 | [1755-closest-subsequence-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/7Navneet7/LeetCodeDSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3937-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/7Navneet7/LeetCodeDSA/tree/master/3937-number-of-integers-with-popcount-depth-equal-to-k-i) |
 ## Combinatorics
 |  |
@@ -199,6 +200,7 @@ DSA Problems
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/7Navneet7/LeetCodeDSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Sliding Window
 |  |
 | ------- |
@@ -292,6 +294,7 @@ DSA Problems
 | [0039-combination-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0039-combination-sum/) | Medium |
 | [0494-target-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0494-target-sum/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/7Navneet7/LeetCodeDSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Hash Table
 |  |
 | ------- |
