@@ -1,27 +1,23 @@
 class Solution {
 public:
-    void findComb(int ind,int target,vector<int>&arr,vector<vector<int>>&ans,vector<int>&ds){
-        int n=arr.size();
-        if(target==0){
-            ans.push_back(ds);
-            return;
+    void backT(int idx,vector<int>cnd,int tar,vector<vector<int>>&ans,vector<int>&ds){
+        if(tar==0){
+            ans.push_back(ds);return;
         }
-        for(int i=ind;i<n;i++){
-            if(i>ind && arr[i]==arr[i-1])continue;
-
-            if(target<arr[i])break;
-            ds.push_back(arr[i]);
-            findComb(i+1,target-arr[i],arr,ans,ds);
+        if(idx==cnd.size())return;
+        for(int i=idx;i<cnd.size();i++){
+            if(i>idx && cnd[i]==cnd[i-1])continue;
+            if(tar<cnd[i])break;
+            ds.push_back(cnd[i]);
+            backT(i+1,cnd,tar-cnd[i],ans,ds);
             ds.pop_back();
-
         }
     }
-
-    vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-        sort(candidates.begin(),candidates.end());
-        vector<vector<int>>ans; vector<int>ds;
-        findComb(0,target,candidates,ans,ds);
+    vector<vector<int>> combinationSum2(vector<int>& cnd, int tar) {
+        vector<int>ds;
+        vector<vector<int>>ans;
+        sort(cnd.begin(),cnd.end());
+        backT(0,cnd,tar,ans,ds);
         return ans;
-        
     }
 };
