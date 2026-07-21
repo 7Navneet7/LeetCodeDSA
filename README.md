@@ -85,6 +85,7 @@ DSA Problems
 | ------- |
 | [0001-two-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0120-triangle](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0120-triangle/) | Medium |
@@ -295,6 +296,7 @@ DSA Problems
 | ------- |
 | [0022-generate-parentheses](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0494-target-sum/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/7Navneet7/LeetCodeDSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
