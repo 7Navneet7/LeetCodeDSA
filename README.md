@@ -35,6 +35,7 @@ DSA Problems
 | [0070-climbing-stairs](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0120-triangle/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0233-number-of-digit-one](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0233-number-of-digit-one/) | Hard |
@@ -197,6 +198,7 @@ DSA Problems
 | [0076-minimum-window-substring](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0127-word-ladder/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0242-valid-anagram/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -300,6 +302,7 @@ DSA Problems
 | [0022-generate-parentheses](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0040-combination-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0494-target-sum/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
