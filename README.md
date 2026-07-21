@@ -36,6 +36,7 @@ DSA Problems
 | [0091-decode-ways](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0120-triangle/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0233-number-of-digit-one](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0233-number-of-digit-one/) | Hard |
@@ -93,6 +94,7 @@ DSA Problems
 | [0079-word-search](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0120-triangle/) | Medium |
 | [0130-surrounded-regions](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0130-surrounded-regions/) | Medium |
+| [0139-word-break](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0162-find-peak-element/) | Medium |
 | [0189-rotate-array](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0198-house-robber/) | Medium |
@@ -203,6 +205,7 @@ DSA Problems
 | [0091-decode-ways](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0242-valid-anagram/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -321,6 +324,7 @@ DSA Problems
 | [0017-letter-combinations-of-a-phone-number](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0127-word-ladder/) | Hard |
+| [0139-word-break](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0242-valid-anagram/) | Easy |
 | [0454-4sum-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0454-4sum-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0496-next-greater-element-i) |
@@ -480,6 +484,7 @@ DSA Problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0139-word-break) |
 ## Ordered Set
 |  |
 | ------- |
@@ -497,4 +502,8 @@ DSA Problems
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0023-merge-k-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
