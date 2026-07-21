@@ -89,6 +89,7 @@ DSA Problems
 | [0040-combination-sum-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0063-unique-paths-ii/) | Medium |
+| [0079-word-search](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0120-triangle/) | Medium |
 | [0130-surrounded-regions](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0162-find-peak-element](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0162-find-peak-element/) | Medium |
@@ -158,6 +159,7 @@ DSA Problems
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0063-unique-paths-ii/) | Medium |
+| [0079-word-search](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0200-number-of-islands/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -196,6 +198,7 @@ DSA Problems
 | [0017-letter-combinations-of-a-phone-number](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0076-minimum-window-substring/) | Hard |
+| [0079-word-search](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0131-palindrome-partitioning) |
@@ -302,6 +305,7 @@ DSA Problems
 | [0022-generate-parentheses](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0494-target-sum/) | Medium |
@@ -337,6 +341,7 @@ DSA Problems
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0130-surrounded-regions](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0200-number-of-islands/) | Medium |
