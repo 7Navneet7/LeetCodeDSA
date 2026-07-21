@@ -1,27 +1,35 @@
 class Solution {
 public:
     bool isPal(string s,int l,int r){
-        while(l<r){
-            if(s[l++]!=s[r--])return false;
+        while(l<=r){
+            if(s[l]!=s[r])return 0;
+            l++;
+            r--;
         }
-        return true;
+        return 1;
     }
-    void util(int ind,string s,vector<string>&ds,vector<vector<string>>&ans){
-        if(ind==s.size()){
-            ans.push_back(ds);return;
+    void backT(int st,string s,vector<string>&curr,vector<vector<string>>&ans){
+        //base case
+        if(st==s.size()){
+            ans.push_back(curr);
+            return;
         }
-        for(int i=ind;i<s.size();i++){
-            if(isPal(s,ind,i)){
-                ds.push_back(s.substr(ind,i-ind+1));
-                util(i+1,s,ds,ans);
-                ds.pop_back();
+        //loop based branching
+        for(int i=st;i<s.size();i++){
+            string sub=s.substr(st,i-st+1);
+            if(isPal(s,st,i)){
+                curr.push_back(sub);
+                backT(i+1,s,curr,ans);
+                curr.pop_back();
             }
+            else continue;
         }
     }
     vector<vector<string>> partition(string s) {
-        vector<string>ds;vector<vector<string>>ans;
-        util(0,s,ds,ans);
+        vector<vector<string>>ans;
+        vector<string>curr;
+        //st denotes the beggining point of current split
+        backT(0,s,curr,ans);
         return ans;
-        
     }
 };
