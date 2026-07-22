@@ -33,6 +33,7 @@ DSA Problems
 | [0062-unique-paths](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0085-maximal-rectangle](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0120-triangle/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0131-palindrome-partitioning) |
@@ -94,6 +95,7 @@ DSA Problems
 | [0063-unique-paths-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0079-word-search](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0120-triangle/) | Medium |
 | [0130-surrounded-regions](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0139-word-break](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0139-word-break) |
@@ -167,6 +169,7 @@ DSA Problems
 | [0037-sudoku-solver](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0079-word-search](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0200-number-of-islands/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -188,6 +191,7 @@ DSA Problems
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0739-daily-temperatures/) | Medium |
@@ -197,6 +201,7 @@ DSA Problems
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0739-daily-temperatures/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
