@@ -93,6 +93,7 @@ DSA Problems
 | [0055-jump-game](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0079-word-search](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0120-triangle/) | Medium |
 | [0130-surrounded-regions](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0139-word-break](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0139-word-break) |
@@ -186,6 +187,7 @@ DSA Problems
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0739-daily-temperatures/) | Medium |
@@ -194,6 +196,7 @@ DSA Problems
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0739-daily-temperatures/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
