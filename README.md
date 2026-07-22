@@ -190,6 +190,7 @@ DSA Problems
 | [0678-valid-parenthesis-string](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0739-daily-temperatures/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/7Navneet7/LeetCodeDSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -212,6 +213,7 @@ DSA Problems
 | [0242-valid-anagram](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0242-valid-anagram/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/7Navneet7/LeetCodeDSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
