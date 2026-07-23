@@ -108,6 +108,7 @@ DSA Problems
 | [0216-combination-sum-iii](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0322-coin-change](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0322-coin-change/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0435-non-overlapping-intervals) |
@@ -313,6 +314,7 @@ DSA Problems
 | [0215-kth-largest-element-in-an-array](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0295-find-median-from-data-stream](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0743-network-delay-time](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -346,6 +348,7 @@ DSA Problems
 | [0127-word-ladder](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0127-word-ladder/) | Hard |
 | [0139-word-break](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0454-4sum-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -405,6 +408,7 @@ DSA Problems
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 ## Segment Tree
@@ -424,6 +428,7 @@ DSA Problems
 | [0215-kth-largest-element-in-an-array](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0242-valid-anagram/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0435-non-overlapping-intervals) |
 | [0475-heaters](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0475-heaters/) | Medium |
@@ -520,10 +525,12 @@ DSA Problems
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -536,4 +543,8 @@ DSA Problems
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0295-find-median-from-data-stream) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
