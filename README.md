@@ -81,6 +81,7 @@ DSA Problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0021-merge-two-sorted-lists) |
 | [0233-number-of-digit-one](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [1922-count-good-numbers](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1922-count-good-numbers/) | Medium |
 ## Array
@@ -477,6 +478,7 @@ DSA Problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0023-merge-k-sorted-lists) |
 | [0707-design-linked-list](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0707-design-linked-list/) | Medium |
 ## Probability and Statistics
