@@ -10,7 +10,7 @@ public:
             vec.push_back({k,v});
         }
         sort(vec.begin(),vec.end(),[&](auto &a,auto &b){
-            return a.second>=b.second;
+            return a.second>b.second;
         });
         int i=0;
         vector<int>ans;
