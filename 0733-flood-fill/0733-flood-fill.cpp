@@ -1,31 +1,35 @@
 class Solution {
 public:
-    vector<vector<int>> floodFill(vector<vector<int>>& mat, int sr, int sc, int col) {
-        int ro=mat.size(),co=mat[0].size();
-        queue<pair<int,int>>q;
-        vector<pair<int,int>>dir={{-1,0},{1,0},{0,1},{0,-1}};
-        int initcol=mat[sr][sc];
-               if(col==initcol)return mat;
-        q.push({sr,sc});
-        mat[sr][sc]=col;
+    vector<vector<int>> floodFill(vector<vector<int>>& img, int sr, int sc, int col) {
+        int oc=img[sr][sc];
+        if(oc==col)return img;
+        queue<pair<int,int>>q;q.push({sr,sc});
+        int rs=img.size();int cs=img[0].size();
+        img[sr][sc]=col;
         while(!q.empty()){
-            //int sz=q.size();
-            //for(int i=0;i<sz;i++){
-                auto[r,c]=q.front();
-                q.pop();
-                
-                //mat[r][c]=col;
-                for(auto[x,y]:dir){
-                    int nr=r+x;int nc=c+y;
-                    if(nr>=0 && nr<ro && nc>=0 && nc<co && mat[nr][nc]==initcol){
-                        q.push({nr,nc});
-                        mat[nr][nc]=col;
-
-                    }
+            int sz=q.size();
+            while(sz--){
+                auto cc=q.front();q.pop();
+                int x=cc.first;int y=cc.second;
+                if(x-1>=0 && img[x-1][y]==oc){
+                    img[x-1][y]=col;
+                    q.push({x-1,y});
                 }
-            //}
-
+                if(y-1>=0 && img[x][y-1]==oc){
+                    img[x][y-1]=col;
+                    q.push({x,y-1});
+                }
+                if(x+1<rs && img[x+1][y]==oc){
+                    img[x+1][y]=col;
+                    q.push({x+1,y});
+                }
+                if(y+1<cs && img[x][y+1]==oc){
+                    img[x][y+1]=col;
+                    q.push({x,y+1});
+                }
+            }
         }
-        return mat;
+        return img;
+        
     }
 };
