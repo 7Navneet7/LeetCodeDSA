@@ -1,34 +1,46 @@
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-        int rows=grid.size();int cols=grid[0].size();
-        int mins=0;int fres=0;
-        queue<pair<int,int>>q;
-        for(int i=0;i<rows;i++){
-            for(int j=0;j<cols;j++){
+        int rs=grid.size(),cs=grid[0].size();
+        //init the state
+        queue<pair<int,int>>q;int fc=0;
+        for(int i=0;i<rs;i++){
+            for(int j=0;j<cs;j++){
                 if(grid[i][j]==2)q.push({i,j});
-                else if(grid[i][j]==1)fres++;
+                else if(grid[i][j]==1)fc++;
             }
         }
-        vector<pair<int,int>>dir={{-1,0},{1,0},{0,1},{0,-1}};
-        bool isrot=0;
-        while(!q.empty()){
-            int sz=q.size(); bool isrot=0;
-            for(int i=0;i<sz;i++){
-                auto[r,c]=q.front();q.pop();
-                for(auto[dr,dc]:dir){
-                    int nr=r+dr;int nc=c+dc;
-                    if(nr>=0&&nr<rows && nc>=0 && nc<cols){
-                        if(grid[nr][nc]==1){
-                            grid[nr][nc]=2;fres--;
-                            q.push({nr,nc});
-                            isrot=1;
-                        }
-                    }
-                }
+        int tm=0;
+        while(!q.empty() && fc>0){
+            tm++;
+            int sz=q.size();
+            while(sz--){
+            auto cr=q.front();
+            q.pop();
+            int x=cr.first;int y=cr.second;
+            if(x-1>=0 && grid[x-1][y]==1){
+                fc--;
+                grid[x-1][y]=2;
+                q.push({x-1,y});
             }
-            if(isrot)mins++;
+            if(y-1>-1 && grid[x][y-1]==1){
+                fc--;
+                grid[x][y-1]=2;
+                q.push({x,y-1});
+            }
+            if(x+1<rs && grid[x+1][y]==1){
+                fc--;q.push({x+1,y});
+                grid[x+1][y]=2;
+            }
+            if(y+1<cs && grid[x][y+1]==1){
+                fc--;q.push({x,y+1});
+                grid[x][y+1]=2;
+            }
+            }
+
         }
-        return (fres!=0?-1:mins);
+        
+        if(fc==0)return tm;
+        return -1;
     }
 };
