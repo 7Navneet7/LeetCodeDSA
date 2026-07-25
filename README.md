@@ -30,6 +30,7 @@ DSA Problems
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0063-unique-paths-ii/) | Medium |
@@ -94,6 +95,7 @@ DSA Problems
 | [0039-combination-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0079-word-search](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0079-word-search) |
@@ -533,6 +535,7 @@ DSA Problems
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0347-top-k-frequent-elements) |
