@@ -54,6 +54,7 @@ DSA Problems
 | [0494-target-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0494-target-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0808-soup-servings](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0808-soup-servings/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
@@ -133,6 +134,7 @@ DSA Problems
 | [0494-target-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -175,6 +177,7 @@ DSA Problems
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
