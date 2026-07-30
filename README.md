@@ -47,6 +47,7 @@ DSA Problems
 | [0198-house-robber](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0233-number-of-digit-one](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0233-number-of-digit-one/) | Hard |
+| [0300-longest-increasing-subsequence](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -122,6 +123,7 @@ DSA Problems
 | [0216-combination-sum-iii](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0347-top-k-frequent-elements) |
@@ -286,6 +288,7 @@ DSA Problems
 | ------- |
 | [0162-find-peak-element](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0162-find-peak-element/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0475-heaters](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0475-heaters/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
