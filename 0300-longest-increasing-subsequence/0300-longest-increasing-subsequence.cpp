@@ -2,16 +2,22 @@ class Solution {
 public:
     int lengthOfLIS(vector<int>& nu) {
         int n=nu.size();
-        vector<int>dp(n,1);
-        int mxl=1;
-        for(int i=1;i<n;i++){
-            for(int j=0;j<i;j++){
-                if(nu[i]>nu[j]){
-                    dp[i]=max(dp[i],dp[j]+1);
-                }
+        vector<int>tails;
+        //the tails[i] denotes the smallest tail elem among all
+        //LISs of size (i+1)
+        for(auto &x:nu){
+            //if a y>=x present in the tails already
+            // if present, we can lower the y by uverwriting it with x to 
+            // make easier for subsequent subsequences to incrtease their sizes
+            auto it=lower_bound(tails.begin(),tails.end(),x);
+            if(it!=tails.end()){
+                int ind=it-tails.begin();
+                tails[ind]=x;
             }
-            mxl=max(mxl,dp[i]);
+            else{
+                tails.push_back(x);
+            }
         }
-        return mxl;
+        return tails.size();
     }
 };
