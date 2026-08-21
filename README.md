@@ -107,6 +107,7 @@ DSA Problems
 | [0051-n-queens](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0079-word-search](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -198,6 +199,7 @@ DSA Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0079-word-search](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0085-maximal-rectangle) |
@@ -290,6 +292,7 @@ DSA Problems
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0059-spiral-matrix-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [1518-water-bottles](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1518-water-bottles/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
