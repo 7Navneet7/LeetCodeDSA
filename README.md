@@ -596,4 +596,8 @@ DSA Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0347-top-k-frequent-elements) |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
