@@ -31,6 +31,7 @@ DSA Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0055-jump-game) |
@@ -94,6 +95,7 @@ DSA Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0002-add-two-numbers/) | Medium |
+| [0010-regular-expression-matching](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0021-merge-two-sorted-lists) |
 | [0233-number-of-digit-one](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [1922-count-good-numbers](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1922-count-good-numbers/) | Medium |
@@ -248,6 +250,7 @@ DSA Problems
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0010-regular-expression-matching/) | Hard |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0022-generate-parentheses) |
