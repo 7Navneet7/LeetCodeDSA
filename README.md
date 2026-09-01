@@ -362,6 +362,7 @@ DSA Problems
 | [0239-sliding-window-maximum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0295-find-median-from-data-stream](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0355-design-twitter/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0743-network-delay-time](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -396,6 +397,7 @@ DSA Problems
 | [0139-word-break](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0355-design-twitter/) | Medium |
 | [0454-4sum-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0454-4sum-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -469,6 +471,7 @@ DSA Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0295-find-median-from-data-stream) |
+| [0355-design-twitter](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0355-design-twitter/) | Medium |
 | [0707-design-linked-list](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0707-design-linked-list/) | Medium |
 | [1622-fancy-sequence](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1622-fancy-sequence/) | Hard |
 ## Sorting
@@ -534,6 +537,7 @@ DSA Problems
 | [0019-remove-nth-node-from-end-of-list](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0023-merge-k-sorted-lists) |
+| [0355-design-twitter](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0355-design-twitter/) | Medium |
 | [0707-design-linked-list](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0707-design-linked-list/) | Medium |
 ## Probability and Statistics
 | Problem Name | Difficulty |
