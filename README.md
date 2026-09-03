@@ -14,6 +14,7 @@ DSA Problems
 | [0233-number-of-digit-one](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0368-largest-divisible-subset) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0509-fibonacci-number](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0808-soup-servings](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0808-soup-servings/) | Medium |
 | [1201-ugly-number-iii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1201-ugly-number-iii/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
@@ -58,6 +59,7 @@ DSA Problems
 | [0416-partition-equal-subset-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0494-target-sum/) | Medium |
+| [0509-fibonacci-number](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -98,6 +100,7 @@ DSA Problems
 | [0010-regular-expression-matching](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0021-merge-two-sorted-lists) |
 | [0233-number-of-digit-one](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0233-number-of-digit-one/) | Hard |
+| [0509-fibonacci-number](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1922-count-good-numbers](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1922-count-good-numbers/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -575,6 +578,7 @@ DSA Problems
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0139-word-break) |
+| [0509-fibonacci-number](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
