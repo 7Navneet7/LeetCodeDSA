@@ -382,6 +382,7 @@ DSA Problems
 | [0039-combination-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0052-n-queens-ii/) | Hard |
 | [0079-word-search](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0216-combination-sum-iii) |
@@ -618,4 +619,8 @@ DSA Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0175-combine-two-tables/) | Easy |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0052-n-queens-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->
