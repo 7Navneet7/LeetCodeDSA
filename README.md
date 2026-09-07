@@ -35,6 +35,7 @@ DSA Problems
 | [0005-longest-palindromic-substring](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0062-unique-paths/) | Medium |
@@ -111,6 +112,7 @@ DSA Problems
 | [0037-sudoku-solver](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0055-jump-game) |
@@ -192,6 +194,7 @@ DSA Problems
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0435-non-overlapping-intervals) |
