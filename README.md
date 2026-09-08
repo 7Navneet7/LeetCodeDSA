@@ -153,6 +153,7 @@ DSA Problems
 | [0494-target-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0621-task-scheduler](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0739-daily-temperatures/) | Medium |
@@ -200,6 +201,7 @@ DSA Problems
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0846-hand-of-straights/) | Medium |
@@ -377,6 +379,7 @@ DSA Problems
 | [0347-top-k-frequent-elements](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0355-design-twitter/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1172-dinner-plate-stacks](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1172-dinner-plate-stacks/) | Hard |
@@ -418,6 +421,7 @@ DSA Problems
 | [0454-4sum-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0454-4sum-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0621-task-scheduler](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0846-hand-of-straights/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
@@ -478,6 +482,7 @@ DSA Problems
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 ## Segment Tree
@@ -505,6 +510,7 @@ DSA Problems
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0435-non-overlapping-intervals) |
 | [0475-heaters](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0475-heaters/) | Medium |
+| [0621-task-scheduler](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0846-hand-of-straights/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/7Navneet7/LeetCodeDSA/tree/master/1331-rank-transform-of-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
