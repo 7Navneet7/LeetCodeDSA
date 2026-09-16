@@ -284,6 +284,7 @@ DSA Problems
 | [0678-valid-parenthesis-string](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/7Navneet7/LeetCodeDSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1177-can-make-palindrome-from-substring](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1177-can-make-palindrome-from-substring/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -434,6 +435,7 @@ DSA Problems
 | [1001-grid-illumination](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1001-grid-illumination/) | Hard |
 | [1172-dinner-plate-stacks](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1172-dinner-plate-stacks/) | Hard |
 | [1177-can-make-palindrome-from-substring](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1177-can-make-palindrome-from-substring/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/7Navneet7/LeetCodeDSA/tree/master/1331-rank-transform-of-an-array) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
@@ -490,6 +492,7 @@ DSA Problems
 | [0347-top-k-frequent-elements](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1189-maximum-number-of-balloons](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
