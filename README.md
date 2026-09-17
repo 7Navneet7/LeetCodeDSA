@@ -173,6 +173,7 @@ DSA Problems
 | [1091-shortest-path-in-binary-matrix](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1177-can-make-palindrome-from-substring](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1177-can-make-palindrome-from-substring/) | Medium |
+| [1202-smallest-string-with-swaps](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/7Navneet7/LeetCodeDSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -285,6 +286,7 @@ DSA Problems
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/7Navneet7/LeetCodeDSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1177-can-make-palindrome-from-substring](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1177-can-make-palindrome-from-substring/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1202-smallest-string-with-swaps](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -354,6 +356,7 @@ DSA Problems
 | [0785-is-graph-bipartite](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1020-number-of-enclaves](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1020-number-of-enclaves/) | Medium |
+| [1202-smallest-string-with-swaps](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -436,6 +439,7 @@ DSA Problems
 | [1172-dinner-plate-stacks](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1172-dinner-plate-stacks/) | Hard |
 | [1177-can-make-palindrome-from-substring](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1177-can-make-palindrome-from-substring/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1202-smallest-string-with-swaps](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/7Navneet7/LeetCodeDSA/tree/master/1331-rank-transform-of-an-array) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
@@ -463,6 +467,7 @@ DSA Problems
 | [0787-cheapest-flights-within-k-stops](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1020-number-of-enclaves](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1020-number-of-enclaves/) | Medium |
+| [1202-smallest-string-with-swaps](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -482,6 +487,7 @@ DSA Problems
 | [0994-rotting-oranges](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1202-smallest-string-with-swaps](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -522,6 +528,7 @@ DSA Problems
 | [0475-heaters](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0475-heaters/) | Medium |
 | [0621-task-scheduler](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0846-hand-of-straights/) | Medium |
+| [1202-smallest-string-with-swaps](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/7Navneet7/LeetCodeDSA/tree/master/1331-rank-transform-of-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1755-closest-subsequence-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1755-closest-subsequence-sum/) | Hard |
