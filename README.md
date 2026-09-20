@@ -9,6 +9,7 @@ DSA Problems
 | [0002-add-two-numbers](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0062-unique-paths/) | Medium |
+| [0066-plus-one](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0189-rotate-array/) | Medium |
 | [0233-number-of-digit-one](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0233-number-of-digit-one/) | Hard |
@@ -119,6 +120,7 @@ DSA Problems
 | [0055-jump-game](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0063-unique-paths-ii/) | Medium |
+| [0066-plus-one](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0066-plus-one/) | Easy |
 | [0079-word-search](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0085-maximal-rectangle) |
