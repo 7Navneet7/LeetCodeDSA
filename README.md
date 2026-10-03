@@ -203,6 +203,7 @@ DSA Problems
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/7Navneet7/LeetCodeDSA/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/7Navneet7/LeetCodeDSA/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Greedy
 |  |
 | ------- |
@@ -315,6 +316,7 @@ DSA Problems
 | [1248-count-number-of-nice-subarrays](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/7Navneet7/LeetCodeDSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/7Navneet7/LeetCodeDSA/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -455,6 +457,7 @@ DSA Problems
 | [1331-rank-transform-of-an-array](https://github.com/7Navneet7/LeetCodeDSA/tree/master/1331-rank-transform-of-an-array) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/7Navneet7/LeetCodeDSA/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/7Navneet7/LeetCodeDSA/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Tree
 |  |
 | ------- |
