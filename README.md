@@ -304,6 +304,7 @@ DSA Problems
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/7Navneet7/LeetCodeDSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -337,6 +338,7 @@ DSA Problems
 | [0059-spiral-matrix-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0067-add-binary](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0067-add-binary/) | Easy |
 | [1518-water-bottles](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1518-water-bottles/) | Easy |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 ## Binary Search
