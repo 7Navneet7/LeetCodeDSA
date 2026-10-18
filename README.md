@@ -23,6 +23,7 @@ DSA Problems
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1518-water-bottles](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1518-water-bottles/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1622-fancy-sequence](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1922-count-good-numbers](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1922-count-good-numbers/) | Medium |
@@ -74,6 +75,7 @@ DSA Problems
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1755-closest-subsequence-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -98,6 +100,7 @@ DSA Problems
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0062-unique-paths/) | Medium |
 | [1201-ugly-number-iii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1201-ugly-number-iii/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3881-direction-assignments-with-exactly-k-visible-people](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3881-direction-assignments-with-exactly-k-visible-people/) | Medium |
 | [3937-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/7Navneet7/LeetCodeDSA/tree/master/3937-number-of-integers-with-popcount-depth-equal-to-k-i) |
 ## Recursion
@@ -188,6 +191,7 @@ DSA Problems
 | [1463-cherry-pickup-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1521-find-a-value-of-a-mysterious-function-closest-to-target/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/7Navneet7/LeetCodeDSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -374,6 +378,7 @@ DSA Problems
 | [1020-number-of-enclaves](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -470,6 +475,7 @@ DSA Problems
 | [0701-insert-into-a-binary-search-tree](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -627,6 +633,7 @@ DSA Problems
 | [0700-search-in-a-binary-search-tree](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -635,12 +642,14 @@ DSA Problems
 | [0700-search-in-a-binary-search-tree](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0509-fibonacci-number/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -655,6 +664,7 @@ DSA Problems
 | [0215-kth-largest-element-in-an-array](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0347-top-k-frequent-elements) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -688,4 +698,8 @@ DSA Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
