@@ -32,6 +32,7 @@ DSA Problems
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3881-direction-assignments-with-exactly-k-visible-people](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3881-direction-assignments-with-exactly-k-visible-people/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3937-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/7Navneet7/LeetCodeDSA/tree/master/3937-number-of-integers-with-popcount-depth-equal-to-k-i) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -208,6 +209,7 @@ DSA Problems
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/7Navneet7/LeetCodeDSA/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/7Navneet7/LeetCodeDSA/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Greedy
@@ -564,6 +566,7 @@ DSA Problems
 | [2089-find-target-indices-after-sorting-array](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2952-minimum-number-of-coins-to-be-added/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -705,4 +708,8 @@ DSA Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3886-sum-of-sortable-integers](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
 <!---LeetCode Topics End-->
