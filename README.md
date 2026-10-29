@@ -95,6 +95,7 @@ DSA Problems
 | [1755-closest-subsequence-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/7Navneet7/LeetCodeDSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3937-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/7Navneet7/LeetCodeDSA/tree/master/3937-number-of-integers-with-popcount-depth-equal-to-k-i) |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -209,6 +210,7 @@ DSA Problems
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3886-sum-of-sortable-integers](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/7Navneet7/LeetCodeDSA/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/7Navneet7/LeetCodeDSA/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
@@ -313,6 +315,7 @@ DSA Problems
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/7Navneet7/LeetCodeDSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -480,6 +483,7 @@ DSA Problems
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -500,6 +504,7 @@ DSA Problems
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/7Navneet7/LeetCodeDSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -534,6 +539,7 @@ DSA Problems
 | ------- | ------- |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1521-find-a-value-of-a-mysterious-function-closest-to-target/) | Hard |
 | [1622-fancy-sequence](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1622-fancy-sequence/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -671,6 +677,7 @@ DSA Problems
 | [0240-search-a-2d-matrix-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/7Navneet7/LeetCodeDSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -712,4 +719,8 @@ DSA Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/7Navneet7/LeetCodeDSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 <!---LeetCode Topics End-->
