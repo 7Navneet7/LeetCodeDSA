@@ -121,6 +121,7 @@ DSA Problems
 | ------- | ------- |
 | [0001-two-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0037-sudoku-solver](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0040-combination-sum-ii) |
@@ -218,6 +219,7 @@ DSA Problems
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -584,6 +586,7 @@ DSA Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0011-container-with-most-water](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0189-rotate-array](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0189-rotate-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0295-find-median-from-data-stream) |
