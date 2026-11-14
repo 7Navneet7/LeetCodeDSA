@@ -125,6 +125,7 @@ DSA Problems
 | [0037-sudoku-solver](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0045-jump-game-ii](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0053-maximum-subarray) |
@@ -453,6 +454,7 @@ DSA Problems
 | [0017-letter-combinations-of-a-phone-number](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0037-sudoku-solver](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0076-minimum-window-substring](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/7Navneet7/LeetCodeDSA/tree/main/0127-word-ladder/) | Hard |
 | [0139-word-break](https://github.com/7Navneet7/LeetCodeDSA/tree/master/0139-word-break) |
